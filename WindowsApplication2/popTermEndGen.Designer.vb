@@ -33,7 +33,6 @@ Partial Class popTermEndGen
         'ComboBox2
         '
         Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Items.AddRange(New Object() {"January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"})
         Me.ComboBox2.Location = New System.Drawing.Point(80, 39)
         Me.ComboBox2.Name = "ComboBox2"
         Me.ComboBox2.Size = New System.Drawing.Size(121, 21)

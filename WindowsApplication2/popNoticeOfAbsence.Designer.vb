@@ -60,7 +60,6 @@ Partial Class popNoticeOfAbsence
         Me.RadioButton3.Name = "RadioButton3"
         Me.RadioButton3.Size = New System.Drawing.Size(73, 17)
         Me.RadioButton3.TabIndex = 1
-        Me.RadioButton3.TabStop = True
         Me.RadioButton3.Text = "Faculty ID"
         Me.RadioButton3.UseVisualStyleBackColor = True
         '
@@ -71,13 +70,13 @@ Partial Class popNoticeOfAbsence
         Me.RadioButton2.Name = "RadioButton2"
         Me.RadioButton2.Size = New System.Drawing.Size(174, 17)
         Me.RadioButton2.TabIndex = 1
-        Me.RadioButton2.TabStop = True
         Me.RadioButton2.Text = "Faculty with no email addresses"
         Me.RadioButton2.UseVisualStyleBackColor = True
         '
         'RadioButton1
         '
         Me.RadioButton1.AutoSize = True
+        Me.RadioButton1.Checked = True
         Me.RadioButton1.Location = New System.Drawing.Point(6, 19)
         Me.RadioButton1.Name = "RadioButton1"
         Me.RadioButton1.Size = New System.Drawing.Size(36, 17)

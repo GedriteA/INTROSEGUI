@@ -14,7 +14,6 @@
     End Sub
 
     Private Sub Add_Click(sender As Object, e As EventArgs) Handles bttnAdd.Click
-        Me.Hide()
         popAddMakeUp.Show()
 
     End Sub

@@ -41,9 +41,9 @@ Partial Class popDailyGen
         Me.Label1.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(7, 14)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(39, 18)
+        Me.Label1.Size = New System.Drawing.Size(47, 18)
         Me.Label1.TabIndex = 163
-        Me.Label1.Text = "Day"
+        Me.Label1.Text = "Date"
         '
         'btnBack
         '

@@ -55,13 +55,13 @@ Partial Class Find
         Me.RadioButton1.Name = "RadioButton1"
         Me.RadioButton1.Size = New System.Drawing.Size(58, 17)
         Me.RadioButton1.TabIndex = 162
-        Me.RadioButton1.TabStop = True
         Me.RadioButton1.Text = "Course"
         Me.RadioButton1.UseVisualStyleBackColor = True
         '
         'RadioButton3
         '
         Me.RadioButton3.AutoSize = True
+        Me.RadioButton3.Checked = True
         Me.RadioButton3.Location = New System.Drawing.Point(11, 12)
         Me.RadioButton3.Name = "RadioButton3"
         Me.RadioButton3.Size = New System.Drawing.Size(76, 17)

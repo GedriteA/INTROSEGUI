@@ -46,6 +46,7 @@ Partial Class popFindFacAtt
         'RadioButton1
         '
         Me.RadioButton1.AutoSize = True
+        Me.RadioButton1.Checked = True
         Me.RadioButton1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton1.Location = New System.Drawing.Point(11, 35)
         Me.RadioButton1.Name = "RadioButton1"
@@ -63,7 +64,6 @@ Partial Class popFindFacAtt
         Me.RadioButton3.Name = "RadioButton3"
         Me.RadioButton3.Size = New System.Drawing.Size(99, 17)
         Me.RadioButton3.TabIndex = 6
-        Me.RadioButton3.TabStop = True
         Me.RadioButton3.Text = "Course/Section"
         Me.RadioButton3.UseVisualStyleBackColor = True
         '

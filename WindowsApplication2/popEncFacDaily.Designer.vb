@@ -903,15 +903,15 @@ Partial Class popEncFacDaily
         Me.Label6.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label6.Location = New System.Drawing.Point(398, 64)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(51, 18)
+        Me.Label6.Size = New System.Drawing.Size(81, 18)
         Me.Label6.TabIndex = 203
-        Me.Label6.Text = "Code"
+        Me.Label6.Text = "Remarks"
         '
         'Label7
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(472, 64)
+        Me.Label7.Location = New System.Drawing.Point(485, 64)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(52, 18)
         Me.Label7.TabIndex = 204

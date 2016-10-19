@@ -46,4 +46,8 @@
     Private Sub rbttnTermEnd_CheckedChanged(sender As Object, e As EventArgs) Handles rbttnTermEnd.CheckedChanged
         ReportChoice = 3
     End Sub
+
+    Private Sub rbttnGrad_CheckedChanged(sender As Object, e As EventArgs) Handles rbttnGrad.CheckedChanged
+
+    End Sub
 End Class

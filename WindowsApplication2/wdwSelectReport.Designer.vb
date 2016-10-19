@@ -50,6 +50,7 @@ Partial Class wdwSelectReport
         'rbttnUnder
         '
         Me.rbttnUnder.AutoSize = True
+        Me.rbttnUnder.Checked = True
         Me.rbttnUnder.Location = New System.Drawing.Point(6, 19)
         Me.rbttnUnder.Name = "rbttnUnder"
         Me.rbttnUnder.Size = New System.Drawing.Size(96, 17)
@@ -205,6 +206,7 @@ Partial Class wdwSelectReport
         'rbttnRegistrar
         '
         Me.rbttnRegistrar.AutoSize = True
+        Me.rbttnRegistrar.Checked = True
         Me.rbttnRegistrar.Location = New System.Drawing.Point(12, 10)
         Me.rbttnRegistrar.Name = "rbttnRegistrar"
         Me.rbttnRegistrar.Size = New System.Drawing.Size(67, 17)
@@ -238,6 +240,7 @@ Partial Class wdwSelectReport
         'rbttnDaily
         '
         Me.rbttnDaily.AutoSize = True
+        Me.rbttnDaily.Checked = True
         Me.rbttnDaily.Location = New System.Drawing.Point(6, 19)
         Me.rbttnDaily.Name = "rbttnDaily"
         Me.rbttnDaily.Size = New System.Drawing.Size(48, 17)

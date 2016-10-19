@@ -50,7 +50,6 @@ Partial Class wdwNotices
         Me.RadService.Name = "RadService"
         Me.RadService.Size = New System.Drawing.Size(96, 17)
         Me.RadService.TabIndex = 1
-        Me.RadService.TabStop = True
         Me.RadService.Text = "Service Report"
         Me.RadService.UseVisualStyleBackColor = True
         '
@@ -61,13 +60,13 @@ Partial Class wdwNotices
         Me.RadTardiness.Name = "RadTardiness"
         Me.RadTardiness.Size = New System.Drawing.Size(117, 17)
         Me.RadTardiness.TabIndex = 1
-        Me.RadTardiness.TabStop = True
         Me.RadTardiness.Text = "Notice of Tardiness"
         Me.RadTardiness.UseVisualStyleBackColor = True
         '
         'RadAbsence
         '
         Me.RadAbsence.AutoSize = True
+        Me.RadAbsence.Checked = True
         Me.RadAbsence.Location = New System.Drawing.Point(6, 19)
         Me.RadAbsence.Name = "RadAbsence"
         Me.RadAbsence.Size = New System.Drawing.Size(113, 17)

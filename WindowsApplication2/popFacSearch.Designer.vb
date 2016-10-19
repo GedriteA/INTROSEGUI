@@ -90,6 +90,7 @@ Partial Class popFacSearch
         'rbttnID
         '
         Me.rbttnID.AutoSize = True
+        Me.rbttnID.Checked = True
         Me.rbttnID.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.rbttnID.Location = New System.Drawing.Point(11, 35)
         Me.rbttnID.Name = "rbttnID"
@@ -115,7 +116,6 @@ Partial Class popFacSearch
         Me.rbttnCourse.Name = "rbttnCourse"
         Me.rbttnCourse.Size = New System.Drawing.Size(99, 17)
         Me.rbttnCourse.TabIndex = 6
-        Me.rbttnCourse.TabStop = True
         Me.rbttnCourse.Text = "Course/Section"
         Me.rbttnCourse.UseVisualStyleBackColor = True
         '

@@ -78,7 +78,6 @@ Partial Class popServiceRecord
         Me.RadID.Name = "RadID"
         Me.RadID.Size = New System.Drawing.Size(73, 17)
         Me.RadID.TabIndex = 1
-        Me.RadID.TabStop = True
         Me.RadID.Text = "Faculty ID"
         Me.RadID.UseVisualStyleBackColor = True
         '
@@ -89,13 +88,13 @@ Partial Class popServiceRecord
         Me.RadNoEmail.Name = "RadNoEmail"
         Me.RadNoEmail.Size = New System.Drawing.Size(174, 17)
         Me.RadNoEmail.TabIndex = 1
-        Me.RadNoEmail.TabStop = True
         Me.RadNoEmail.Text = "Faculty with no email addresses"
         Me.RadNoEmail.UseVisualStyleBackColor = True
         '
         'RadAll
         '
         Me.RadAll.AutoSize = True
+        Me.RadAll.Checked = True
         Me.RadAll.Location = New System.Drawing.Point(6, 19)
         Me.RadAll.Name = "RadAll"
         Me.RadAll.Size = New System.Drawing.Size(36, 17)
