@@ -156,3 +156,42 @@ C:\Users\Aeinstein Villamayor\Documents\GitHub\INTROSEGUI\WindowsApplication2\ob
 C:\Users\Aeinstein Villamayor\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwNotices.resources
 C:\Users\Aeinstein Villamayor\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwReportGen.resources
 C:\Users\Aeinstein Villamayor\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.EmailNotices.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popDailyGen.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popMonthlyGen.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popFacSearch.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popAddMakeUp.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popNoticeOfAbsence.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popNoticeOfTardiness.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popServiceRecord.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popTermEndGen.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwEncodeFacMakeUp.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.Find.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwClassInfo.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwDailyAttendanceLog.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popAddFacultyDaily.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwGenAbsNotice.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwGenServiceReport.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwMainMenu.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popFindFacAtt.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popEncFacDaily.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwModFacultyDaily.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwFacultyMakeUp.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwFacDailyAtt.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwSelectReport.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.popModMakeup.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwNotices.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwReportGen.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwEmailNotice.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwEmailReports.resources
+C:\Users\kaye\Documents\GitHub\INTROSEGUI\WindowsApplication2\obj\Debug\WindowsApplication2.wdwFacPlantilia.resources

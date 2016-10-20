@@ -112,7 +112,7 @@ Partial Class popNoticeOfAbsence
         Me.Controls.Add(Me.btnBack)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "popNoticeOfAbsence"
-        Me.Text = "Input"
+        Me.Text = "Notice"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
         Me.ResumeLayout(False)

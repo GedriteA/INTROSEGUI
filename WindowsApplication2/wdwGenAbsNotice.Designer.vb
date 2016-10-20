@@ -25,14 +25,14 @@ Partial Class wdwGenAbsNotice
         Me.btnBack = New System.Windows.Forms.Button()
         Me.btnPrint = New System.Windows.Forms.Button()
         Me.btnSaveAs = New System.Windows.Forms.Button()
-        Me.btnSave = New System.Windows.Forms.Button()
+        Me.btnEmail = New System.Windows.Forms.Button()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'btnBack
         '
-        Me.btnBack.Location = New System.Drawing.Point(516, 403)
+        Me.btnBack.Location = New System.Drawing.Point(526, 410)
         Me.btnBack.Name = "btnBack"
         Me.btnBack.Size = New System.Drawing.Size(75, 23)
         Me.btnBack.TabIndex = 20
@@ -41,7 +41,7 @@ Partial Class wdwGenAbsNotice
         '
         'btnPrint
         '
-        Me.btnPrint.Location = New System.Drawing.Point(303, 403)
+        Me.btnPrint.Location = New System.Drawing.Point(364, 410)
         Me.btnPrint.Name = "btnPrint"
         Me.btnPrint.Size = New System.Drawing.Size(75, 23)
         Me.btnPrint.TabIndex = 19
@@ -50,25 +50,25 @@ Partial Class wdwGenAbsNotice
         '
         'btnSaveAs
         '
-        Me.btnSaveAs.Location = New System.Drawing.Point(135, 403)
+        Me.btnSaveAs.Location = New System.Drawing.Point(283, 410)
         Me.btnSaveAs.Name = "btnSaveAs"
         Me.btnSaveAs.Size = New System.Drawing.Size(75, 23)
         Me.btnSaveAs.TabIndex = 18
         Me.btnSaveAs.Text = "Export"
         Me.btnSaveAs.UseVisualStyleBackColor = True
         '
-        'btnSave
+        'btnEmail
         '
-        Me.btnSave.Location = New System.Drawing.Point(12, 403)
-        Me.btnSave.Name = "btnSave"
-        Me.btnSave.Size = New System.Drawing.Size(75, 23)
-        Me.btnSave.TabIndex = 17
-        Me.btnSave.Text = "Save"
-        Me.btnSave.UseVisualStyleBackColor = True
+        Me.btnEmail.Location = New System.Drawing.Point(445, 410)
+        Me.btnEmail.Name = "btnEmail"
+        Me.btnEmail.Size = New System.Drawing.Size(75, 23)
+        Me.btnEmail.TabIndex = 17
+        Me.btnEmail.Text = "Email"
+        Me.btnEmail.UseVisualStyleBackColor = True
         '
         'PictureBox1
         '
-        Me.PictureBox1.Location = New System.Drawing.Point(12, 12)
+        Me.PictureBox1.Location = New System.Drawing.Point(22, 19)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(579, 385)
         Me.PictureBox1.TabIndex = 12
@@ -82,10 +82,10 @@ Partial Class wdwGenAbsNotice
         Me.Controls.Add(Me.btnBack)
         Me.Controls.Add(Me.btnPrint)
         Me.Controls.Add(Me.btnSaveAs)
-        Me.Controls.Add(Me.btnSave)
+        Me.Controls.Add(Me.btnEmail)
         Me.Controls.Add(Me.PictureBox1)
         Me.Name = "wdwGenAbsNotice"
-        Me.Text = "wdwGenAbsNotice"
+        Me.Text = "Generate Notice"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
@@ -94,6 +94,6 @@ Partial Class wdwGenAbsNotice
     Friend WithEvents btnBack As Button
     Friend WithEvents btnPrint As Button
     Friend WithEvents btnSaveAs As Button
-    Friend WithEvents btnSave As Button
+    Friend WithEvents btnEmail As Button
     Friend WithEvents PictureBox1 As PictureBox
 End Class

@@ -54,7 +54,7 @@
         popModMakeup.Show()
     End Sub
 
-    Private Sub Find_Click(sender As Object, e As EventArgs) Handles bttnFind.Click
+    Private Sub Find_Click(sender As Object, e As EventArgs) 
         popFacSearch.Show()
 
     End Sub

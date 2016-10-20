@@ -51,6 +51,7 @@ Partial Class wdwSelectReport
         '
         Me.rbttnUnder.AutoSize = True
         Me.rbttnUnder.Checked = True
+        Me.rbttnUnder.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.rbttnUnder.Location = New System.Drawing.Point(6, 19)
         Me.rbttnUnder.Name = "rbttnUnder"
         Me.rbttnUnder.Size = New System.Drawing.Size(96, 17)
@@ -62,6 +63,7 @@ Partial Class wdwSelectReport
         'rbttnGrad
         '
         Me.rbttnGrad.AutoSize = True
+        Me.rbttnGrad.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.rbttnGrad.Location = New System.Drawing.Point(6, 42)
         Me.rbttnGrad.Name = "rbttnGrad"
         Me.rbttnGrad.Size = New System.Drawing.Size(69, 17)
@@ -73,6 +75,7 @@ Partial Class wdwSelectReport
         'rbttnBoth
         '
         Me.rbttnBoth.AutoSize = True
+        Me.rbttnBoth.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.rbttnBoth.Location = New System.Drawing.Point(6, 65)
         Me.rbttnBoth.Name = "rbttnBoth"
         Me.rbttnBoth.Size = New System.Drawing.Size(47, 17)
@@ -86,6 +89,7 @@ Partial Class wdwSelectReport
         Me.GroupBox1.Controls.Add(Me.rbttnUnder)
         Me.GroupBox1.Controls.Add(Me.rbttnBoth)
         Me.GroupBox1.Controls.Add(Me.rbttnGrad)
+        Me.GroupBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GroupBox1.Location = New System.Drawing.Point(12, 12)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(103, 90)
@@ -99,9 +103,10 @@ Partial Class wdwSelectReport
         Me.GroupBox2.Controls.Add(Me.rbttnTermEnd)
         Me.GroupBox2.Controls.Add(Me.rbttnMonthly)
         Me.GroupBox2.Controls.Add(Me.rbttnDaily)
+        Me.GroupBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GroupBox2.Location = New System.Drawing.Point(12, 108)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(482, 194)
+        Me.GroupBox2.Size = New System.Drawing.Size(482, 270)
         Me.GroupBox2.TabIndex = 4
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Type of Report"
@@ -117,16 +122,17 @@ Partial Class wdwSelectReport
         Me.GroupBox3.Controls.Add(Me.rbttnVPA)
         Me.GroupBox3.Controls.Add(Me.rbttnEVP)
         Me.GroupBox3.Controls.Add(Me.rbttnRegistrar)
-        Me.GroupBox3.Location = New System.Drawing.Point(6, 42)
+        Me.GroupBox3.Location = New System.Drawing.Point(9, 49)
         Me.GroupBox3.Name = "GroupBox3"
-        Me.GroupBox3.Size = New System.Drawing.Size(464, 142)
+        Me.GroupBox3.Size = New System.Drawing.Size(464, 212)
         Me.GroupBox3.TabIndex = 6
         Me.GroupBox3.TabStop = False
         '
         'chckAllColl2
         '
         Me.chckAllColl2.AutoSize = True
-        Me.chckAllColl2.Location = New System.Drawing.Point(122, 91)
+        Me.chckAllColl2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.chckAllColl2.Location = New System.Drawing.Point(122, 108)
         Me.chckAllColl2.Name = "chckAllColl2"
         Me.chckAllColl2.Size = New System.Drawing.Size(80, 17)
         Me.chckAllColl2.TabIndex = 15
@@ -136,7 +142,8 @@ Partial Class wdwSelectReport
         'chckAllColeg1
         '
         Me.chckAllColeg1.AutoSize = True
-        Me.chckAllColeg1.Location = New System.Drawing.Point(122, 41)
+        Me.chckAllColeg1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.chckAllColeg1.Location = New System.Drawing.Point(122, 154)
         Me.chckAllColeg1.Name = "chckAllColeg1"
         Me.chckAllColeg1.Size = New System.Drawing.Size(80, 17)
         Me.chckAllColeg1.TabIndex = 14
@@ -146,7 +153,7 @@ Partial Class wdwSelectReport
         'cmbChair
         '
         Me.cmbChair.FormattingEnabled = True
-        Me.cmbChair.Location = New System.Drawing.Point(122, 108)
+        Me.cmbChair.Location = New System.Drawing.Point(122, 127)
         Me.cmbChair.Name = "cmbChair"
         Me.cmbChair.Size = New System.Drawing.Size(307, 21)
         Me.cmbChair.TabIndex = 13
@@ -154,7 +161,8 @@ Partial Class wdwSelectReport
         'rbttnDeptChair
         '
         Me.rbttnDeptChair.AutoSize = True
-        Me.rbttnDeptChair.Location = New System.Drawing.Point(9, 112)
+        Me.rbttnDeptChair.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.rbttnDeptChair.Location = New System.Drawing.Point(12, 131)
         Me.rbttnDeptChair.Name = "rbttnDeptChair"
         Me.rbttnDeptChair.Size = New System.Drawing.Size(107, 17)
         Me.rbttnDeptChair.TabIndex = 12
@@ -165,7 +173,7 @@ Partial Class wdwSelectReport
         'cmbDean
         '
         Me.cmbDean.FormattingEnabled = True
-        Me.cmbDean.Location = New System.Drawing.Point(122, 64)
+        Me.cmbDean.Location = New System.Drawing.Point(122, 81)
         Me.cmbDean.Name = "cmbDean"
         Me.cmbDean.Size = New System.Drawing.Size(307, 21)
         Me.cmbDean.TabIndex = 11
@@ -173,7 +181,8 @@ Partial Class wdwSelectReport
         'rbttnCollDean
         '
         Me.rbttnCollDean.AutoSize = True
-        Me.rbttnCollDean.Location = New System.Drawing.Point(12, 64)
+        Me.rbttnCollDean.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.rbttnCollDean.Location = New System.Drawing.Point(12, 81)
         Me.rbttnCollDean.Name = "rbttnCollDean"
         Me.rbttnCollDean.Size = New System.Drawing.Size(89, 17)
         Me.rbttnCollDean.TabIndex = 10
@@ -184,7 +193,8 @@ Partial Class wdwSelectReport
         'rbttnVPA
         '
         Me.rbttnVPA.AutoSize = True
-        Me.rbttnVPA.Location = New System.Drawing.Point(383, 9)
+        Me.rbttnVPA.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.rbttnVPA.Location = New System.Drawing.Point(12, 56)
         Me.rbttnVPA.Name = "rbttnVPA"
         Me.rbttnVPA.Size = New System.Drawing.Size(46, 17)
         Me.rbttnVPA.TabIndex = 9
@@ -195,7 +205,8 @@ Partial Class wdwSelectReport
         'rbttnEVP
         '
         Me.rbttnEVP.AutoSize = True
-        Me.rbttnEVP.Location = New System.Drawing.Point(216, 9)
+        Me.rbttnEVP.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.rbttnEVP.Location = New System.Drawing.Point(12, 33)
         Me.rbttnEVP.Name = "rbttnEVP"
         Me.rbttnEVP.Size = New System.Drawing.Size(46, 17)
         Me.rbttnEVP.TabIndex = 8
@@ -207,6 +218,7 @@ Partial Class wdwSelectReport
         '
         Me.rbttnRegistrar.AutoSize = True
         Me.rbttnRegistrar.Checked = True
+        Me.rbttnRegistrar.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.rbttnRegistrar.Location = New System.Drawing.Point(12, 10)
         Me.rbttnRegistrar.Name = "rbttnRegistrar"
         Me.rbttnRegistrar.Size = New System.Drawing.Size(67, 17)
@@ -218,6 +230,7 @@ Partial Class wdwSelectReport
         'rbttnTermEnd
         '
         Me.rbttnTermEnd.AutoSize = True
+        Me.rbttnTermEnd.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.rbttnTermEnd.Location = New System.Drawing.Point(128, 19)
         Me.rbttnTermEnd.Name = "rbttnTermEnd"
         Me.rbttnTermEnd.Size = New System.Drawing.Size(71, 17)
@@ -229,6 +242,7 @@ Partial Class wdwSelectReport
         'rbttnMonthly
         '
         Me.rbttnMonthly.AutoSize = True
+        Me.rbttnMonthly.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.rbttnMonthly.Location = New System.Drawing.Point(60, 19)
         Me.rbttnMonthly.Name = "rbttnMonthly"
         Me.rbttnMonthly.Size = New System.Drawing.Size(62, 17)
@@ -241,6 +255,7 @@ Partial Class wdwSelectReport
         '
         Me.rbttnDaily.AutoSize = True
         Me.rbttnDaily.Checked = True
+        Me.rbttnDaily.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.rbttnDaily.Location = New System.Drawing.Point(6, 19)
         Me.rbttnDaily.Name = "rbttnDaily"
         Me.rbttnDaily.Size = New System.Drawing.Size(48, 17)
@@ -251,7 +266,7 @@ Partial Class wdwSelectReport
         '
         'bttnGen
         '
-        Me.bttnGen.Location = New System.Drawing.Point(72, 324)
+        Me.bttnGen.Location = New System.Drawing.Point(115, 384)
         Me.bttnGen.Name = "bttnGen"
         Me.bttnGen.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.bttnGen.Size = New System.Drawing.Size(90, 75)
@@ -261,7 +276,7 @@ Partial Class wdwSelectReport
         '
         'bttnBack
         '
-        Me.bttnBack.Location = New System.Drawing.Point(324, 324)
+        Me.bttnBack.Location = New System.Drawing.Point(267, 384)
         Me.bttnBack.Name = "bttnBack"
         Me.bttnBack.Size = New System.Drawing.Size(90, 75)
         Me.bttnBack.TabIndex = 6
@@ -272,7 +287,7 @@ Partial Class wdwSelectReport
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(509, 425)
+        Me.ClientSize = New System.Drawing.Size(509, 488)
         Me.Controls.Add(Me.bttnBack)
         Me.Controls.Add(Me.bttnGen)
         Me.Controls.Add(Me.GroupBox2)

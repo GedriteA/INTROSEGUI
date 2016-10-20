@@ -28,7 +28,8 @@
     End Sub
 
     Private Sub bttnPlantilla_Click(sender As Object, e As EventArgs) Handles bttnPlantilla.Click
-
+        Me.Hide()
+        wdwFacPlantilia.Show()
     End Sub
 
     Private Sub bttnExit_Click(sender As Object, e As EventArgs) Handles bttnExit.Click

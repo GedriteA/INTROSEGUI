@@ -10,15 +10,15 @@
 
     End Sub
 
-    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
+    Private Sub Label2_Click(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+    Private Sub Label1_Click(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click
+    Private Sub Label3_Click(sender As Object, e As EventArgs)
 
     End Sub
 
@@ -36,7 +36,7 @@
 
     End Sub
 
-    Private Sub bttnFind_Click(sender As Object, e As EventArgs) Handles bttnFind.Click
+    Private Sub bttnFind_Click(sender As Object, e As EventArgs) 
 
         popFacSearch.Show()
 

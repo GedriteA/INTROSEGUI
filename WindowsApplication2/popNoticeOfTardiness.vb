@@ -28,6 +28,6 @@
 
     Private Sub btnGenerate_Click(sender As Object, e As EventArgs) Handles btnGenerate.Click
         Me.Hide()
-        wdwGenTardiness.Show()
+        wdwEmailNotice.Show()
     End Sub
 End Class

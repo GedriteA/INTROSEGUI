@@ -1,20 +1,8 @@
 ﻿Public Class wdwNotices
     Dim choice As Integer
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles btnGenerate.Click
-        If choice = 1 Then
-            Me.Hide()
-            popNoticeOfAbsence.Show()
-        End If
-
-        If choice = 2 Then
-            Me.Hide()
-            popNoticeOfTardiness.Show()
-        End If
-
-        If choice = 3 Then
-            Me.Hide()
-            popServiceRecord.Show()
-        End If
+        Me.Hide()
+        wdwGenAbsNotice.Show()
     End Sub
 
     Private Sub RadAbsence_CheckedChanged(sender As Object, e As EventArgs) Handles RadAbsence.CheckedChanged

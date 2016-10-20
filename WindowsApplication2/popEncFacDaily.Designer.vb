@@ -123,32 +123,49 @@ Partial Class popEncFacDaily
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.TextBox17 = New System.Windows.Forms.TextBox()
+        Me.TextBox33 = New System.Windows.Forms.TextBox()
+        Me.TextBox47 = New System.Windows.Forms.TextBox()
+        Me.TextBox48 = New System.Windows.Forms.TextBox()
+        Me.TextBox49 = New System.Windows.Forms.TextBox()
+        Me.TextBox50 = New System.Windows.Forms.TextBox()
+        Me.TextBox51 = New System.Windows.Forms.TextBox()
+        Me.TextBox52 = New System.Windows.Forms.TextBox()
+        Me.TextBox53 = New System.Windows.Forms.TextBox()
+        Me.TextBox54 = New System.Windows.Forms.TextBox()
+        Me.TextBox55 = New System.Windows.Forms.TextBox()
+        Me.TextBox56 = New System.Windows.Forms.TextBox()
+        Me.TextBox57 = New System.Windows.Forms.TextBox()
+        Me.TextBox58 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'TextBox82
         '
-        Me.TextBox82.Location = New System.Drawing.Point(475, 85)
+        Me.TextBox82.Location = New System.Drawing.Point(487, 107)
         Me.TextBox82.Name = "TextBox82"
-        Me.TextBox82.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox82.Size = New System.Drawing.Size(66, 20)
         Me.TextBox82.TabIndex = 81
         '
         'TextBox83
         '
-        Me.TextBox83.Location = New System.Drawing.Point(475, 110)
+        Me.TextBox83.Location = New System.Drawing.Point(487, 132)
         Me.TextBox83.Name = "TextBox83"
-        Me.TextBox83.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox83.Size = New System.Drawing.Size(66, 20)
         Me.TextBox83.TabIndex = 82
         '
         'TextBox100
         '
-        Me.TextBox100.Location = New System.Drawing.Point(426, 24)
+        Me.TextBox100.Location = New System.Drawing.Point(112, 50)
         Me.TextBox100.Name = "TextBox100"
-        Me.TextBox100.Size = New System.Drawing.Size(143, 20)
+        Me.TextBox100.Size = New System.Drawing.Size(200, 20)
         Me.TextBox100.TabIndex = 99
         '
         'bttnEncode
         '
-        Me.bttnEncode.Location = New System.Drawing.Point(172, 471)
+        Me.bttnEncode.Location = New System.Drawing.Point(172, 493)
         Me.bttnEncode.Name = "bttnEncode"
         Me.bttnEncode.Size = New System.Drawing.Size(95, 70)
         Me.bttnEncode.TabIndex = 100
@@ -157,7 +174,7 @@ Partial Class popEncFacDaily
         '
         'bttnBack
         '
-        Me.bttnBack.Location = New System.Drawing.Point(313, 471)
+        Me.bttnBack.Location = New System.Drawing.Point(313, 493)
         Me.bttnBack.Name = "bttnBack"
         Me.bttnBack.Size = New System.Drawing.Size(95, 70)
         Me.bttnBack.TabIndex = 101
@@ -168,203 +185,203 @@ Partial Class popEncFacDaily
         '
         Me.ComboBox1.FormattingEnabled = True
         Me.ComboBox1.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox1.Location = New System.Drawing.Point(396, 85)
+        Me.ComboBox1.Location = New System.Drawing.Point(396, 107)
         Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox1.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox1.TabIndex = 102
         '
         'TextBox18
         '
-        Me.TextBox18.Location = New System.Drawing.Point(475, 160)
+        Me.TextBox18.Location = New System.Drawing.Point(487, 182)
         Me.TextBox18.Name = "TextBox18"
-        Me.TextBox18.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox18.Size = New System.Drawing.Size(66, 20)
         Me.TextBox18.TabIndex = 111
         '
         'TextBox19
         '
-        Me.TextBox19.Location = New System.Drawing.Point(475, 135)
+        Me.TextBox19.Location = New System.Drawing.Point(487, 157)
         Me.TextBox19.Name = "TextBox19"
-        Me.TextBox19.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox19.Size = New System.Drawing.Size(66, 20)
         Me.TextBox19.TabIndex = 110
         '
         'TextBox20
         '
-        Me.TextBox20.Location = New System.Drawing.Point(475, 210)
+        Me.TextBox20.Location = New System.Drawing.Point(487, 232)
         Me.TextBox20.Name = "TextBox20"
-        Me.TextBox20.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox20.Size = New System.Drawing.Size(66, 20)
         Me.TextBox20.TabIndex = 113
         '
         'TextBox21
         '
-        Me.TextBox21.Location = New System.Drawing.Point(475, 185)
+        Me.TextBox21.Location = New System.Drawing.Point(487, 207)
         Me.TextBox21.Name = "TextBox21"
-        Me.TextBox21.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox21.Size = New System.Drawing.Size(66, 20)
         Me.TextBox21.TabIndex = 112
         '
         'TextBox22
         '
-        Me.TextBox22.Location = New System.Drawing.Point(475, 260)
+        Me.TextBox22.Location = New System.Drawing.Point(487, 282)
         Me.TextBox22.Name = "TextBox22"
-        Me.TextBox22.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox22.Size = New System.Drawing.Size(66, 20)
         Me.TextBox22.TabIndex = 115
         '
         'TextBox23
         '
-        Me.TextBox23.Location = New System.Drawing.Point(475, 235)
+        Me.TextBox23.Location = New System.Drawing.Point(487, 257)
         Me.TextBox23.Name = "TextBox23"
-        Me.TextBox23.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox23.Size = New System.Drawing.Size(66, 20)
         Me.TextBox23.TabIndex = 114
         '
         'TextBox24
         '
-        Me.TextBox24.Location = New System.Drawing.Point(475, 310)
+        Me.TextBox24.Location = New System.Drawing.Point(487, 332)
         Me.TextBox24.Name = "TextBox24"
-        Me.TextBox24.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox24.Size = New System.Drawing.Size(66, 20)
         Me.TextBox24.TabIndex = 117
         '
         'TextBox25
         '
-        Me.TextBox25.Location = New System.Drawing.Point(475, 285)
+        Me.TextBox25.Location = New System.Drawing.Point(487, 307)
         Me.TextBox25.Name = "TextBox25"
-        Me.TextBox25.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox25.Size = New System.Drawing.Size(66, 20)
         Me.TextBox25.TabIndex = 116
         '
         'TextBox26
         '
-        Me.TextBox26.Location = New System.Drawing.Point(475, 360)
+        Me.TextBox26.Location = New System.Drawing.Point(487, 382)
         Me.TextBox26.Name = "TextBox26"
-        Me.TextBox26.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox26.Size = New System.Drawing.Size(66, 20)
         Me.TextBox26.TabIndex = 119
         '
         'TextBox27
         '
-        Me.TextBox27.Location = New System.Drawing.Point(475, 335)
+        Me.TextBox27.Location = New System.Drawing.Point(487, 357)
         Me.TextBox27.Name = "TextBox27"
-        Me.TextBox27.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox27.Size = New System.Drawing.Size(66, 20)
         Me.TextBox27.TabIndex = 118
         '
         'TextBox28
         '
-        Me.TextBox28.Location = New System.Drawing.Point(475, 410)
+        Me.TextBox28.Location = New System.Drawing.Point(487, 432)
         Me.TextBox28.Name = "TextBox28"
-        Me.TextBox28.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox28.Size = New System.Drawing.Size(66, 20)
         Me.TextBox28.TabIndex = 121
         '
         'TextBox29
         '
-        Me.TextBox29.Location = New System.Drawing.Point(475, 385)
+        Me.TextBox29.Location = New System.Drawing.Point(487, 407)
         Me.TextBox29.Name = "TextBox29"
-        Me.TextBox29.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox29.Size = New System.Drawing.Size(66, 20)
         Me.TextBox29.TabIndex = 120
         '
         'TextBox30
         '
-        Me.TextBox30.Location = New System.Drawing.Point(475, 435)
+        Me.TextBox30.Location = New System.Drawing.Point(487, 457)
         Me.TextBox30.Name = "TextBox30"
-        Me.TextBox30.Size = New System.Drawing.Size(94, 20)
+        Me.TextBox30.Size = New System.Drawing.Size(66, 20)
         Me.TextBox30.TabIndex = 122
         '
         'TextBox31
         '
-        Me.TextBox31.Location = New System.Drawing.Point(273, 435)
+        Me.TextBox31.Location = New System.Drawing.Point(273, 457)
         Me.TextBox31.Name = "TextBox31"
         Me.TextBox31.Size = New System.Drawing.Size(117, 20)
         Me.TextBox31.TabIndex = 137
         '
         'TextBox32
         '
-        Me.TextBox32.Location = New System.Drawing.Point(273, 410)
+        Me.TextBox32.Location = New System.Drawing.Point(273, 432)
         Me.TextBox32.Name = "TextBox32"
         Me.TextBox32.Size = New System.Drawing.Size(117, 20)
         Me.TextBox32.TabIndex = 136
         '
         'TextBox34
         '
-        Me.TextBox34.Location = New System.Drawing.Point(273, 385)
+        Me.TextBox34.Location = New System.Drawing.Point(273, 407)
         Me.TextBox34.Name = "TextBox34"
         Me.TextBox34.Size = New System.Drawing.Size(117, 20)
         Me.TextBox34.TabIndex = 135
         '
         'TextBox35
         '
-        Me.TextBox35.Location = New System.Drawing.Point(273, 360)
+        Me.TextBox35.Location = New System.Drawing.Point(273, 382)
         Me.TextBox35.Name = "TextBox35"
         Me.TextBox35.Size = New System.Drawing.Size(117, 20)
         Me.TextBox35.TabIndex = 134
         '
         'TextBox36
         '
-        Me.TextBox36.Location = New System.Drawing.Point(273, 335)
+        Me.TextBox36.Location = New System.Drawing.Point(273, 357)
         Me.TextBox36.Name = "TextBox36"
         Me.TextBox36.Size = New System.Drawing.Size(117, 20)
         Me.TextBox36.TabIndex = 133
         '
         'TextBox37
         '
-        Me.TextBox37.Location = New System.Drawing.Point(273, 310)
+        Me.TextBox37.Location = New System.Drawing.Point(273, 332)
         Me.TextBox37.Name = "TextBox37"
         Me.TextBox37.Size = New System.Drawing.Size(117, 20)
         Me.TextBox37.TabIndex = 132
         '
         'TextBox38
         '
-        Me.TextBox38.Location = New System.Drawing.Point(273, 285)
+        Me.TextBox38.Location = New System.Drawing.Point(273, 307)
         Me.TextBox38.Name = "TextBox38"
         Me.TextBox38.Size = New System.Drawing.Size(117, 20)
         Me.TextBox38.TabIndex = 131
         '
         'TextBox39
         '
-        Me.TextBox39.Location = New System.Drawing.Point(273, 260)
+        Me.TextBox39.Location = New System.Drawing.Point(273, 282)
         Me.TextBox39.Name = "TextBox39"
         Me.TextBox39.Size = New System.Drawing.Size(117, 20)
         Me.TextBox39.TabIndex = 130
         '
         'TextBox40
         '
-        Me.TextBox40.Location = New System.Drawing.Point(273, 235)
+        Me.TextBox40.Location = New System.Drawing.Point(273, 257)
         Me.TextBox40.Name = "TextBox40"
         Me.TextBox40.Size = New System.Drawing.Size(117, 20)
         Me.TextBox40.TabIndex = 129
         '
         'TextBox41
         '
-        Me.TextBox41.Location = New System.Drawing.Point(273, 210)
+        Me.TextBox41.Location = New System.Drawing.Point(273, 232)
         Me.TextBox41.Name = "TextBox41"
         Me.TextBox41.Size = New System.Drawing.Size(117, 20)
         Me.TextBox41.TabIndex = 128
         '
         'TextBox42
         '
-        Me.TextBox42.Location = New System.Drawing.Point(273, 185)
+        Me.TextBox42.Location = New System.Drawing.Point(273, 207)
         Me.TextBox42.Name = "TextBox42"
         Me.TextBox42.Size = New System.Drawing.Size(117, 20)
         Me.TextBox42.TabIndex = 127
         '
         'TextBox43
         '
-        Me.TextBox43.Location = New System.Drawing.Point(273, 160)
+        Me.TextBox43.Location = New System.Drawing.Point(273, 182)
         Me.TextBox43.Name = "TextBox43"
         Me.TextBox43.Size = New System.Drawing.Size(117, 20)
         Me.TextBox43.TabIndex = 126
         '
         'TextBox44
         '
-        Me.TextBox44.Location = New System.Drawing.Point(273, 135)
+        Me.TextBox44.Location = New System.Drawing.Point(273, 157)
         Me.TextBox44.Name = "TextBox44"
         Me.TextBox44.Size = New System.Drawing.Size(117, 20)
         Me.TextBox44.TabIndex = 125
         '
         'TextBox45
         '
-        Me.TextBox45.Location = New System.Drawing.Point(273, 110)
+        Me.TextBox45.Location = New System.Drawing.Point(273, 132)
         Me.TextBox45.Name = "TextBox45"
         Me.TextBox45.Size = New System.Drawing.Size(117, 20)
         Me.TextBox45.TabIndex = 124
         '
         'TextBox46
         '
-        Me.TextBox46.Location = New System.Drawing.Point(273, 85)
+        Me.TextBox46.Location = New System.Drawing.Point(273, 107)
         Me.TextBox46.Name = "TextBox46"
         Me.TextBox46.Size = New System.Drawing.Size(117, 20)
         Me.TextBox46.TabIndex = 123
@@ -373,132 +390,132 @@ Partial Class popEncFacDaily
         '
         Me.ComboBox2.FormattingEnabled = True
         Me.ComboBox2.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox2.Location = New System.Drawing.Point(396, 110)
+        Me.ComboBox2.Location = New System.Drawing.Point(396, 132)
         Me.ComboBox2.Name = "ComboBox2"
-        Me.ComboBox2.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox2.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox2.TabIndex = 138
         '
         'ComboBox3
         '
         Me.ComboBox3.FormattingEnabled = True
         Me.ComboBox3.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox3.Location = New System.Drawing.Point(396, 135)
+        Me.ComboBox3.Location = New System.Drawing.Point(396, 157)
         Me.ComboBox3.Name = "ComboBox3"
-        Me.ComboBox3.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox3.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox3.TabIndex = 139
         '
         'ComboBox4
         '
         Me.ComboBox4.FormattingEnabled = True
         Me.ComboBox4.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox4.Location = New System.Drawing.Point(396, 160)
+        Me.ComboBox4.Location = New System.Drawing.Point(396, 182)
         Me.ComboBox4.Name = "ComboBox4"
-        Me.ComboBox4.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox4.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox4.TabIndex = 140
         '
         'ComboBox5
         '
         Me.ComboBox5.FormattingEnabled = True
         Me.ComboBox5.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox5.Location = New System.Drawing.Point(396, 210)
+        Me.ComboBox5.Location = New System.Drawing.Point(396, 232)
         Me.ComboBox5.Name = "ComboBox5"
-        Me.ComboBox5.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox5.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox5.TabIndex = 142
         '
         'ComboBox6
         '
         Me.ComboBox6.FormattingEnabled = True
         Me.ComboBox6.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox6.Location = New System.Drawing.Point(396, 185)
+        Me.ComboBox6.Location = New System.Drawing.Point(396, 207)
         Me.ComboBox6.Name = "ComboBox6"
-        Me.ComboBox6.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox6.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox6.TabIndex = 141
         '
         'ComboBox7
         '
         Me.ComboBox7.FormattingEnabled = True
         Me.ComboBox7.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox7.Location = New System.Drawing.Point(396, 260)
+        Me.ComboBox7.Location = New System.Drawing.Point(396, 282)
         Me.ComboBox7.Name = "ComboBox7"
-        Me.ComboBox7.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox7.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox7.TabIndex = 144
         '
         'ComboBox8
         '
         Me.ComboBox8.FormattingEnabled = True
         Me.ComboBox8.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox8.Location = New System.Drawing.Point(396, 235)
+        Me.ComboBox8.Location = New System.Drawing.Point(396, 257)
         Me.ComboBox8.Name = "ComboBox8"
-        Me.ComboBox8.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox8.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox8.TabIndex = 143
         '
         'ComboBox9
         '
         Me.ComboBox9.FormattingEnabled = True
         Me.ComboBox9.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox9.Location = New System.Drawing.Point(396, 310)
+        Me.ComboBox9.Location = New System.Drawing.Point(396, 332)
         Me.ComboBox9.Name = "ComboBox9"
-        Me.ComboBox9.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox9.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox9.TabIndex = 146
         '
         'ComboBox10
         '
         Me.ComboBox10.FormattingEnabled = True
         Me.ComboBox10.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox10.Location = New System.Drawing.Point(396, 285)
+        Me.ComboBox10.Location = New System.Drawing.Point(396, 307)
         Me.ComboBox10.Name = "ComboBox10"
-        Me.ComboBox10.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox10.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox10.TabIndex = 145
         '
         'ComboBox11
         '
         Me.ComboBox11.FormattingEnabled = True
         Me.ComboBox11.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox11.Location = New System.Drawing.Point(396, 360)
+        Me.ComboBox11.Location = New System.Drawing.Point(396, 382)
         Me.ComboBox11.Name = "ComboBox11"
-        Me.ComboBox11.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox11.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox11.TabIndex = 148
         '
         'ComboBox12
         '
         Me.ComboBox12.FormattingEnabled = True
         Me.ComboBox12.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox12.Location = New System.Drawing.Point(396, 335)
+        Me.ComboBox12.Location = New System.Drawing.Point(396, 357)
         Me.ComboBox12.Name = "ComboBox12"
-        Me.ComboBox12.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox12.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox12.TabIndex = 147
         '
         'ComboBox13
         '
         Me.ComboBox13.FormattingEnabled = True
         Me.ComboBox13.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox13.Location = New System.Drawing.Point(396, 410)
+        Me.ComboBox13.Location = New System.Drawing.Point(396, 432)
         Me.ComboBox13.Name = "ComboBox13"
-        Me.ComboBox13.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox13.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox13.TabIndex = 150
         '
         'ComboBox14
         '
         Me.ComboBox14.FormattingEnabled = True
         Me.ComboBox14.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox14.Location = New System.Drawing.Point(396, 385)
+        Me.ComboBox14.Location = New System.Drawing.Point(396, 407)
         Me.ComboBox14.Name = "ComboBox14"
-        Me.ComboBox14.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox14.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox14.TabIndex = 149
         '
         'ComboBox15
         '
         Me.ComboBox15.FormattingEnabled = True
         Me.ComboBox15.Items.AddRange(New Object() {"AB", "lA", "SB", "SW", "VR", "ED", "US"})
-        Me.ComboBox15.Location = New System.Drawing.Point(396, 435)
+        Me.ComboBox15.Location = New System.Drawing.Point(396, 457)
         Me.ComboBox15.Name = "ComboBox15"
-        Me.ComboBox15.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox15.Size = New System.Drawing.Size(83, 21)
         Me.ComboBox15.TabIndex = 151
         '
         'ComboBox16
         '
         Me.ComboBox16.FormattingEnabled = True
-        Me.ComboBox16.Location = New System.Drawing.Point(179, 85)
+        Me.ComboBox16.Location = New System.Drawing.Point(179, 107)
         Me.ComboBox16.Name = "ComboBox16"
         Me.ComboBox16.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox16.TabIndex = 152
@@ -506,7 +523,7 @@ Partial Class popEncFacDaily
         'ComboBox17
         '
         Me.ComboBox17.FormattingEnabled = True
-        Me.ComboBox17.Location = New System.Drawing.Point(179, 110)
+        Me.ComboBox17.Location = New System.Drawing.Point(179, 132)
         Me.ComboBox17.Name = "ComboBox17"
         Me.ComboBox17.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox17.TabIndex = 153
@@ -514,7 +531,7 @@ Partial Class popEncFacDaily
         'ComboBox18
         '
         Me.ComboBox18.FormattingEnabled = True
-        Me.ComboBox18.Location = New System.Drawing.Point(179, 160)
+        Me.ComboBox18.Location = New System.Drawing.Point(179, 182)
         Me.ComboBox18.Name = "ComboBox18"
         Me.ComboBox18.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox18.TabIndex = 155
@@ -522,7 +539,7 @@ Partial Class popEncFacDaily
         'ComboBox19
         '
         Me.ComboBox19.FormattingEnabled = True
-        Me.ComboBox19.Location = New System.Drawing.Point(179, 135)
+        Me.ComboBox19.Location = New System.Drawing.Point(179, 157)
         Me.ComboBox19.Name = "ComboBox19"
         Me.ComboBox19.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox19.TabIndex = 154
@@ -530,7 +547,7 @@ Partial Class popEncFacDaily
         'ComboBox20
         '
         Me.ComboBox20.FormattingEnabled = True
-        Me.ComboBox20.Location = New System.Drawing.Point(179, 210)
+        Me.ComboBox20.Location = New System.Drawing.Point(179, 232)
         Me.ComboBox20.Name = "ComboBox20"
         Me.ComboBox20.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox20.TabIndex = 157
@@ -538,7 +555,7 @@ Partial Class popEncFacDaily
         'ComboBox21
         '
         Me.ComboBox21.FormattingEnabled = True
-        Me.ComboBox21.Location = New System.Drawing.Point(179, 185)
+        Me.ComboBox21.Location = New System.Drawing.Point(179, 207)
         Me.ComboBox21.Name = "ComboBox21"
         Me.ComboBox21.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox21.TabIndex = 156
@@ -546,7 +563,7 @@ Partial Class popEncFacDaily
         'ComboBox22
         '
         Me.ComboBox22.FormattingEnabled = True
-        Me.ComboBox22.Location = New System.Drawing.Point(179, 260)
+        Me.ComboBox22.Location = New System.Drawing.Point(179, 282)
         Me.ComboBox22.Name = "ComboBox22"
         Me.ComboBox22.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox22.TabIndex = 159
@@ -554,7 +571,7 @@ Partial Class popEncFacDaily
         'ComboBox23
         '
         Me.ComboBox23.FormattingEnabled = True
-        Me.ComboBox23.Location = New System.Drawing.Point(179, 235)
+        Me.ComboBox23.Location = New System.Drawing.Point(179, 257)
         Me.ComboBox23.Name = "ComboBox23"
         Me.ComboBox23.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox23.TabIndex = 158
@@ -562,7 +579,7 @@ Partial Class popEncFacDaily
         'ComboBox24
         '
         Me.ComboBox24.FormattingEnabled = True
-        Me.ComboBox24.Location = New System.Drawing.Point(179, 310)
+        Me.ComboBox24.Location = New System.Drawing.Point(179, 332)
         Me.ComboBox24.Name = "ComboBox24"
         Me.ComboBox24.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox24.TabIndex = 161
@@ -570,7 +587,7 @@ Partial Class popEncFacDaily
         'ComboBox25
         '
         Me.ComboBox25.FormattingEnabled = True
-        Me.ComboBox25.Location = New System.Drawing.Point(179, 285)
+        Me.ComboBox25.Location = New System.Drawing.Point(179, 307)
         Me.ComboBox25.Name = "ComboBox25"
         Me.ComboBox25.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox25.TabIndex = 160
@@ -578,7 +595,7 @@ Partial Class popEncFacDaily
         'ComboBox26
         '
         Me.ComboBox26.FormattingEnabled = True
-        Me.ComboBox26.Location = New System.Drawing.Point(179, 360)
+        Me.ComboBox26.Location = New System.Drawing.Point(179, 382)
         Me.ComboBox26.Name = "ComboBox26"
         Me.ComboBox26.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox26.TabIndex = 163
@@ -586,7 +603,7 @@ Partial Class popEncFacDaily
         'ComboBox27
         '
         Me.ComboBox27.FormattingEnabled = True
-        Me.ComboBox27.Location = New System.Drawing.Point(179, 335)
+        Me.ComboBox27.Location = New System.Drawing.Point(179, 357)
         Me.ComboBox27.Name = "ComboBox27"
         Me.ComboBox27.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox27.TabIndex = 162
@@ -594,7 +611,7 @@ Partial Class popEncFacDaily
         'ComboBox28
         '
         Me.ComboBox28.FormattingEnabled = True
-        Me.ComboBox28.Location = New System.Drawing.Point(179, 410)
+        Me.ComboBox28.Location = New System.Drawing.Point(179, 432)
         Me.ComboBox28.Name = "ComboBox28"
         Me.ComboBox28.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox28.TabIndex = 165
@@ -602,7 +619,7 @@ Partial Class popEncFacDaily
         'ComboBox29
         '
         Me.ComboBox29.FormattingEnabled = True
-        Me.ComboBox29.Location = New System.Drawing.Point(179, 385)
+        Me.ComboBox29.Location = New System.Drawing.Point(179, 407)
         Me.ComboBox29.Name = "ComboBox29"
         Me.ComboBox29.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox29.TabIndex = 164
@@ -610,7 +627,7 @@ Partial Class popEncFacDaily
         'ComboBox30
         '
         Me.ComboBox30.FormattingEnabled = True
-        Me.ComboBox30.Location = New System.Drawing.Point(179, 435)
+        Me.ComboBox30.Location = New System.Drawing.Point(179, 457)
         Me.ComboBox30.Name = "ComboBox30"
         Me.ComboBox30.Size = New System.Drawing.Size(88, 21)
         Me.ComboBox30.TabIndex = 166
@@ -618,7 +635,7 @@ Partial Class popEncFacDaily
         'ComboBox31
         '
         Me.ComboBox31.FormattingEnabled = True
-        Me.ComboBox31.Location = New System.Drawing.Point(122, 85)
+        Me.ComboBox31.Location = New System.Drawing.Point(122, 107)
         Me.ComboBox31.Name = "ComboBox31"
         Me.ComboBox31.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox31.TabIndex = 167
@@ -626,7 +643,7 @@ Partial Class popEncFacDaily
         'ComboBox32
         '
         Me.ComboBox32.FormattingEnabled = True
-        Me.ComboBox32.Location = New System.Drawing.Point(122, 110)
+        Me.ComboBox32.Location = New System.Drawing.Point(122, 132)
         Me.ComboBox32.Name = "ComboBox32"
         Me.ComboBox32.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox32.TabIndex = 168
@@ -634,7 +651,7 @@ Partial Class popEncFacDaily
         'ComboBox33
         '
         Me.ComboBox33.FormattingEnabled = True
-        Me.ComboBox33.Location = New System.Drawing.Point(122, 160)
+        Me.ComboBox33.Location = New System.Drawing.Point(122, 182)
         Me.ComboBox33.Name = "ComboBox33"
         Me.ComboBox33.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox33.TabIndex = 170
@@ -642,7 +659,7 @@ Partial Class popEncFacDaily
         'ComboBox34
         '
         Me.ComboBox34.FormattingEnabled = True
-        Me.ComboBox34.Location = New System.Drawing.Point(122, 135)
+        Me.ComboBox34.Location = New System.Drawing.Point(122, 157)
         Me.ComboBox34.Name = "ComboBox34"
         Me.ComboBox34.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox34.TabIndex = 169
@@ -650,7 +667,7 @@ Partial Class popEncFacDaily
         'ComboBox35
         '
         Me.ComboBox35.FormattingEnabled = True
-        Me.ComboBox35.Location = New System.Drawing.Point(122, 210)
+        Me.ComboBox35.Location = New System.Drawing.Point(122, 232)
         Me.ComboBox35.Name = "ComboBox35"
         Me.ComboBox35.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox35.TabIndex = 172
@@ -658,7 +675,7 @@ Partial Class popEncFacDaily
         'ComboBox36
         '
         Me.ComboBox36.FormattingEnabled = True
-        Me.ComboBox36.Location = New System.Drawing.Point(122, 185)
+        Me.ComboBox36.Location = New System.Drawing.Point(122, 207)
         Me.ComboBox36.Name = "ComboBox36"
         Me.ComboBox36.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox36.TabIndex = 171
@@ -666,7 +683,7 @@ Partial Class popEncFacDaily
         'ComboBox37
         '
         Me.ComboBox37.FormattingEnabled = True
-        Me.ComboBox37.Location = New System.Drawing.Point(122, 260)
+        Me.ComboBox37.Location = New System.Drawing.Point(122, 282)
         Me.ComboBox37.Name = "ComboBox37"
         Me.ComboBox37.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox37.TabIndex = 174
@@ -674,7 +691,7 @@ Partial Class popEncFacDaily
         'ComboBox38
         '
         Me.ComboBox38.FormattingEnabled = True
-        Me.ComboBox38.Location = New System.Drawing.Point(122, 235)
+        Me.ComboBox38.Location = New System.Drawing.Point(122, 257)
         Me.ComboBox38.Name = "ComboBox38"
         Me.ComboBox38.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox38.TabIndex = 173
@@ -682,7 +699,7 @@ Partial Class popEncFacDaily
         'ComboBox39
         '
         Me.ComboBox39.FormattingEnabled = True
-        Me.ComboBox39.Location = New System.Drawing.Point(122, 310)
+        Me.ComboBox39.Location = New System.Drawing.Point(122, 332)
         Me.ComboBox39.Name = "ComboBox39"
         Me.ComboBox39.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox39.TabIndex = 176
@@ -690,7 +707,7 @@ Partial Class popEncFacDaily
         'ComboBox40
         '
         Me.ComboBox40.FormattingEnabled = True
-        Me.ComboBox40.Location = New System.Drawing.Point(122, 285)
+        Me.ComboBox40.Location = New System.Drawing.Point(122, 307)
         Me.ComboBox40.Name = "ComboBox40"
         Me.ComboBox40.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox40.TabIndex = 175
@@ -698,7 +715,7 @@ Partial Class popEncFacDaily
         'ComboBox41
         '
         Me.ComboBox41.FormattingEnabled = True
-        Me.ComboBox41.Location = New System.Drawing.Point(122, 360)
+        Me.ComboBox41.Location = New System.Drawing.Point(122, 382)
         Me.ComboBox41.Name = "ComboBox41"
         Me.ComboBox41.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox41.TabIndex = 178
@@ -706,7 +723,7 @@ Partial Class popEncFacDaily
         'ComboBox42
         '
         Me.ComboBox42.FormattingEnabled = True
-        Me.ComboBox42.Location = New System.Drawing.Point(122, 335)
+        Me.ComboBox42.Location = New System.Drawing.Point(122, 357)
         Me.ComboBox42.Name = "ComboBox42"
         Me.ComboBox42.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox42.TabIndex = 177
@@ -714,7 +731,7 @@ Partial Class popEncFacDaily
         'ComboBox43
         '
         Me.ComboBox43.FormattingEnabled = True
-        Me.ComboBox43.Location = New System.Drawing.Point(122, 410)
+        Me.ComboBox43.Location = New System.Drawing.Point(122, 432)
         Me.ComboBox43.Name = "ComboBox43"
         Me.ComboBox43.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox43.TabIndex = 180
@@ -722,7 +739,7 @@ Partial Class popEncFacDaily
         'ComboBox44
         '
         Me.ComboBox44.FormattingEnabled = True
-        Me.ComboBox44.Location = New System.Drawing.Point(122, 385)
+        Me.ComboBox44.Location = New System.Drawing.Point(122, 407)
         Me.ComboBox44.Name = "ComboBox44"
         Me.ComboBox44.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox44.TabIndex = 179
@@ -730,119 +747,119 @@ Partial Class popEncFacDaily
         'ComboBox45
         '
         Me.ComboBox45.FormattingEnabled = True
-        Me.ComboBox45.Location = New System.Drawing.Point(122, 435)
+        Me.ComboBox45.Location = New System.Drawing.Point(122, 457)
         Me.ComboBox45.Name = "ComboBox45"
         Me.ComboBox45.Size = New System.Drawing.Size(51, 21)
         Me.ComboBox45.TabIndex = 181
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(16, 85)
+        Me.TextBox2.Location = New System.Drawing.Point(16, 107)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(100, 20)
         Me.TextBox2.TabIndex = 182
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(16, 110)
+        Me.TextBox3.Location = New System.Drawing.Point(16, 132)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(100, 20)
         Me.TextBox3.TabIndex = 183
         '
         'TextBox4
         '
-        Me.TextBox4.Location = New System.Drawing.Point(16, 160)
+        Me.TextBox4.Location = New System.Drawing.Point(16, 182)
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(100, 20)
         Me.TextBox4.TabIndex = 185
         '
         'TextBox5
         '
-        Me.TextBox5.Location = New System.Drawing.Point(16, 135)
+        Me.TextBox5.Location = New System.Drawing.Point(16, 157)
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.Size = New System.Drawing.Size(100, 20)
         Me.TextBox5.TabIndex = 184
         '
         'TextBox6
         '
-        Me.TextBox6.Location = New System.Drawing.Point(16, 210)
+        Me.TextBox6.Location = New System.Drawing.Point(16, 232)
         Me.TextBox6.Name = "TextBox6"
         Me.TextBox6.Size = New System.Drawing.Size(100, 20)
         Me.TextBox6.TabIndex = 187
         '
         'TextBox7
         '
-        Me.TextBox7.Location = New System.Drawing.Point(16, 185)
+        Me.TextBox7.Location = New System.Drawing.Point(16, 207)
         Me.TextBox7.Name = "TextBox7"
         Me.TextBox7.Size = New System.Drawing.Size(100, 20)
         Me.TextBox7.TabIndex = 186
         '
         'TextBox8
         '
-        Me.TextBox8.Location = New System.Drawing.Point(16, 260)
+        Me.TextBox8.Location = New System.Drawing.Point(16, 282)
         Me.TextBox8.Name = "TextBox8"
         Me.TextBox8.Size = New System.Drawing.Size(100, 20)
         Me.TextBox8.TabIndex = 189
         '
         'TextBox9
         '
-        Me.TextBox9.Location = New System.Drawing.Point(16, 235)
+        Me.TextBox9.Location = New System.Drawing.Point(16, 257)
         Me.TextBox9.Name = "TextBox9"
         Me.TextBox9.Size = New System.Drawing.Size(100, 20)
         Me.TextBox9.TabIndex = 188
         '
         'TextBox10
         '
-        Me.TextBox10.Location = New System.Drawing.Point(16, 310)
+        Me.TextBox10.Location = New System.Drawing.Point(16, 332)
         Me.TextBox10.Name = "TextBox10"
         Me.TextBox10.Size = New System.Drawing.Size(100, 20)
         Me.TextBox10.TabIndex = 191
         '
         'TextBox11
         '
-        Me.TextBox11.Location = New System.Drawing.Point(16, 285)
+        Me.TextBox11.Location = New System.Drawing.Point(16, 307)
         Me.TextBox11.Name = "TextBox11"
         Me.TextBox11.Size = New System.Drawing.Size(100, 20)
         Me.TextBox11.TabIndex = 190
         '
         'TextBox12
         '
-        Me.TextBox12.Location = New System.Drawing.Point(16, 360)
+        Me.TextBox12.Location = New System.Drawing.Point(16, 382)
         Me.TextBox12.Name = "TextBox12"
         Me.TextBox12.Size = New System.Drawing.Size(100, 20)
         Me.TextBox12.TabIndex = 193
         '
         'TextBox13
         '
-        Me.TextBox13.Location = New System.Drawing.Point(16, 335)
+        Me.TextBox13.Location = New System.Drawing.Point(16, 357)
         Me.TextBox13.Name = "TextBox13"
         Me.TextBox13.Size = New System.Drawing.Size(100, 20)
         Me.TextBox13.TabIndex = 192
         '
         'TextBox14
         '
-        Me.TextBox14.Location = New System.Drawing.Point(16, 410)
+        Me.TextBox14.Location = New System.Drawing.Point(16, 432)
         Me.TextBox14.Name = "TextBox14"
         Me.TextBox14.Size = New System.Drawing.Size(100, 20)
         Me.TextBox14.TabIndex = 195
         '
         'TextBox15
         '
-        Me.TextBox15.Location = New System.Drawing.Point(16, 385)
+        Me.TextBox15.Location = New System.Drawing.Point(16, 407)
         Me.TextBox15.Name = "TextBox15"
         Me.TextBox15.Size = New System.Drawing.Size(100, 20)
         Me.TextBox15.TabIndex = 194
         '
         'TextBox16
         '
-        Me.TextBox16.Location = New System.Drawing.Point(16, 435)
+        Me.TextBox16.Location = New System.Drawing.Point(16, 457)
         Me.TextBox16.Name = "TextBox16"
         Me.TextBox16.Size = New System.Drawing.Size(100, 20)
         Me.TextBox16.TabIndex = 196
         '
         'DateTimePicker1
         '
-        Me.DateTimePicker1.Location = New System.Drawing.Point(100, 24)
+        Me.DateTimePicker1.Location = New System.Drawing.Point(112, 24)
         Me.DateTimePicker1.Name = "DateTimePicker1"
         Me.DateTimePicker1.Size = New System.Drawing.Size(200, 20)
         Me.DateTimePicker1.TabIndex = 197
@@ -853,15 +870,15 @@ Partial Class popEncFacDaily
         Me.Label1.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(12, 23)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(87, 18)
+        Me.Label1.Size = New System.Drawing.Size(92, 18)
         Me.Label1.TabIndex = 198
-        Me.Label1.Text = "Date/Day"
+        Me.Label1.Text = "Date/Day:"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(13, 64)
+        Me.Label2.Location = New System.Drawing.Point(17, 86)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(101, 18)
         Me.Label2.TabIndex = 199
@@ -871,7 +888,7 @@ Partial Class popEncFacDaily
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(119, 64)
+        Me.Label3.Location = New System.Drawing.Point(121, 86)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(55, 18)
         Me.Label3.TabIndex = 200
@@ -881,7 +898,7 @@ Partial Class popEncFacDaily
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(180, 64)
+        Me.Label4.Location = New System.Drawing.Point(190, 86)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(68, 18)
         Me.Label4.TabIndex = 201
@@ -891,7 +908,7 @@ Partial Class popEncFacDaily
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(270, 64)
+        Me.Label5.Location = New System.Drawing.Point(271, 86)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(122, 18)
         Me.Label5.TabIndex = 202
@@ -901,7 +918,7 @@ Partial Class popEncFacDaily
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(398, 64)
+        Me.Label6.Location = New System.Drawing.Point(398, 86)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(81, 18)
         Me.Label6.TabIndex = 203
@@ -911,17 +928,159 @@ Partial Class popEncFacDaily
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(485, 64)
+        Me.Label7.Location = New System.Drawing.Point(497, 86)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(52, 18)
+        Me.Label7.Size = New System.Drawing.Size(49, 18)
         Me.Label7.TabIndex = 204
-        Me.Label7.Text = "Time"
+        Me.Label7.Text = "Start"
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.Location = New System.Drawing.Point(21, 51)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(83, 18)
+        Me.Label8.TabIndex = 205
+        Me.Label8.Text = "Checker:"
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label9.Location = New System.Drawing.Point(573, 86)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(40, 18)
+        Me.Label9.TabIndex = 221
+        Me.Label9.Text = "End"
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(561, 457)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox1.TabIndex = 220
+        '
+        'TextBox17
+        '
+        Me.TextBox17.Location = New System.Drawing.Point(561, 432)
+        Me.TextBox17.Name = "TextBox17"
+        Me.TextBox17.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox17.TabIndex = 219
+        '
+        'TextBox33
+        '
+        Me.TextBox33.Location = New System.Drawing.Point(561, 407)
+        Me.TextBox33.Name = "TextBox33"
+        Me.TextBox33.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox33.TabIndex = 218
+        '
+        'TextBox47
+        '
+        Me.TextBox47.Location = New System.Drawing.Point(561, 382)
+        Me.TextBox47.Name = "TextBox47"
+        Me.TextBox47.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox47.TabIndex = 217
+        '
+        'TextBox48
+        '
+        Me.TextBox48.Location = New System.Drawing.Point(561, 357)
+        Me.TextBox48.Name = "TextBox48"
+        Me.TextBox48.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox48.TabIndex = 216
+        '
+        'TextBox49
+        '
+        Me.TextBox49.Location = New System.Drawing.Point(561, 332)
+        Me.TextBox49.Name = "TextBox49"
+        Me.TextBox49.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox49.TabIndex = 215
+        '
+        'TextBox50
+        '
+        Me.TextBox50.Location = New System.Drawing.Point(561, 307)
+        Me.TextBox50.Name = "TextBox50"
+        Me.TextBox50.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox50.TabIndex = 214
+        '
+        'TextBox51
+        '
+        Me.TextBox51.Location = New System.Drawing.Point(561, 282)
+        Me.TextBox51.Name = "TextBox51"
+        Me.TextBox51.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox51.TabIndex = 213
+        '
+        'TextBox52
+        '
+        Me.TextBox52.Location = New System.Drawing.Point(561, 257)
+        Me.TextBox52.Name = "TextBox52"
+        Me.TextBox52.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox52.TabIndex = 212
+        '
+        'TextBox53
+        '
+        Me.TextBox53.Location = New System.Drawing.Point(561, 232)
+        Me.TextBox53.Name = "TextBox53"
+        Me.TextBox53.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox53.TabIndex = 211
+        '
+        'TextBox54
+        '
+        Me.TextBox54.Location = New System.Drawing.Point(561, 207)
+        Me.TextBox54.Name = "TextBox54"
+        Me.TextBox54.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox54.TabIndex = 210
+        '
+        'TextBox55
+        '
+        Me.TextBox55.Location = New System.Drawing.Point(561, 182)
+        Me.TextBox55.Name = "TextBox55"
+        Me.TextBox55.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox55.TabIndex = 209
+        '
+        'TextBox56
+        '
+        Me.TextBox56.Location = New System.Drawing.Point(561, 157)
+        Me.TextBox56.Name = "TextBox56"
+        Me.TextBox56.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox56.TabIndex = 208
+        '
+        'TextBox57
+        '
+        Me.TextBox57.Location = New System.Drawing.Point(561, 132)
+        Me.TextBox57.Name = "TextBox57"
+        Me.TextBox57.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox57.TabIndex = 207
+        '
+        'TextBox58
+        '
+        Me.TextBox58.Location = New System.Drawing.Point(561, 107)
+        Me.TextBox58.Name = "TextBox58"
+        Me.TextBox58.Size = New System.Drawing.Size(66, 20)
+        Me.TextBox58.TabIndex = 206
         '
         'popEncFacDaily
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(586, 551)
+        Me.ClientSize = New System.Drawing.Size(645, 569)
+        Me.Controls.Add(Me.Label9)
+        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.TextBox17)
+        Me.Controls.Add(Me.TextBox33)
+        Me.Controls.Add(Me.TextBox47)
+        Me.Controls.Add(Me.TextBox48)
+        Me.Controls.Add(Me.TextBox49)
+        Me.Controls.Add(Me.TextBox50)
+        Me.Controls.Add(Me.TextBox51)
+        Me.Controls.Add(Me.TextBox52)
+        Me.Controls.Add(Me.TextBox53)
+        Me.Controls.Add(Me.TextBox54)
+        Me.Controls.Add(Me.TextBox55)
+        Me.Controls.Add(Me.TextBox56)
+        Me.Controls.Add(Me.TextBox57)
+        Me.Controls.Add(Me.TextBox58)
+        Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label5)
@@ -1130,4 +1289,21 @@ Partial Class popEncFacDaily
     Friend WithEvents Label5 As Label
     Friend WithEvents Label6 As Label
     Friend WithEvents Label7 As Label
+    Friend WithEvents Label8 As Label
+    Friend WithEvents Label9 As Label
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents TextBox17 As TextBox
+    Friend WithEvents TextBox33 As TextBox
+    Friend WithEvents TextBox47 As TextBox
+    Friend WithEvents TextBox48 As TextBox
+    Friend WithEvents TextBox49 As TextBox
+    Friend WithEvents TextBox50 As TextBox
+    Friend WithEvents TextBox51 As TextBox
+    Friend WithEvents TextBox52 As TextBox
+    Friend WithEvents TextBox53 As TextBox
+    Friend WithEvents TextBox54 As TextBox
+    Friend WithEvents TextBox55 As TextBox
+    Friend WithEvents TextBox56 As TextBox
+    Friend WithEvents TextBox57 As TextBox
+    Friend WithEvents TextBox58 As TextBox
 End Class

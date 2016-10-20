@@ -36,21 +36,21 @@ Partial Class wdwEncodeFacMakeUp
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(195, 19)
+        Me.TextBox3.Location = New System.Drawing.Point(253, 18)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(300, 20)
         Me.TextBox3.TabIndex = 41
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(195, 42)
+        Me.TextBox2.Location = New System.Drawing.Point(253, 41)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(300, 20)
         Me.TextBox2.TabIndex = 40
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(195, 64)
+        Me.TextBox1.Location = New System.Drawing.Point(253, 63)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(300, 20)
         Me.TextBox1.TabIndex = 39
@@ -59,7 +59,7 @@ Partial Class wdwEncodeFacMakeUp
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(67, 66)
+        Me.Label3.Location = New System.Drawing.Point(125, 65)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(115, 18)
         Me.Label3.TabIndex = 38
@@ -69,7 +69,7 @@ Partial Class wdwEncodeFacMakeUp
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(67, 44)
+        Me.Label1.Location = New System.Drawing.Point(125, 43)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(127, 18)
         Me.Label1.TabIndex = 37
@@ -105,7 +105,7 @@ Partial Class wdwEncodeFacMakeUp
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Lucida Fax", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(67, 21)
+        Me.Label6.Location = New System.Drawing.Point(125, 20)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(98, 18)
         Me.Label6.TabIndex = 33
